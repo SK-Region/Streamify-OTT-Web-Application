@@ -19,7 +19,12 @@ This project demonstrates how to build scalable and interactive web applications
 **Frontend:**  
 - Bootstrap  
   - Responsive, mobile-friendly layout  
-  - Clean and intuitive UI design  
+  - Clean and intuitive UI design
+
+**Database:**  
+- SQLite (default for development)  
+  - Stores user credentials, session info, profile data, and media metadata  
+  - Used for verifying login credentials and managing user-specific data like watchlists
 
 ---
 
